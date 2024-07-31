@@ -1,7 +1,8 @@
 <<<<<<< HEAD
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-![Screenshot_20240729_093042](https://github.com/user-attachments/assets/479f5da5-1108-432f-83b4-cf0dfc5c0d5a)
+![Screenshot_20240729_093042](https://github.com/user-attachments/assets/479f5da5-1108-432f-83b4-cf0dfc5c0d5a)  ![good](https://github.com/user-attachments/assets/e20d8923-85dc-477a-b3d5-c134768c1e9f)
+
 
 
 
