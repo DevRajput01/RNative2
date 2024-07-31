@@ -2,8 +2,7 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 
-![Untitled design (29)](https://github.com/user-attachments/assets/de77e926-1593-4dc0-9ef9-aefa962ea106)
-
+![Untitled design (30)](https://github.com/user-attachments/assets/17c982c8-a16e-4786-a584-fa450d5d0788)
 
 
 
