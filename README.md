@@ -4,7 +4,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 ![login1](https://github.com/user-attachments/assets/91954949-7d46-4aab-ab6d-eeaf4e71ae6e)  ![Login2](https://github.com/user-attachments/assets/df65ff6c-440d-4b6c-958e-e56e55aa34ff)
 
-  ![Screenshot_20240729_093042](https://github.com/user-attachments/assets/479f5da5-1108-432f-83b4-cf0dfc5c0d5a)  ![good](https://github.com/user-attachments/assets/e20d8923-85dc-477a-b3d5-c134768c1e9f)
+ ![hhhhh](https://github.com/user-attachments/assets/1f2be7d8-7cfd-4362-adc3-95007a9caf7a)
+ ![good](https://github.com/user-attachments/assets/e20d8923-85dc-477a-b3d5-c134768c1e9f)
 
 
 
